@@ -1,4 +1,4 @@
-# ✦ Personality Oracle ✦
+# ✦Personality-Generator✦
 
 Discover the story hidden within your choices.
 
