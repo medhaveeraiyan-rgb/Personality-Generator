@@ -14,7 +14,7 @@ load_dotenv()
 
 # ─── PAGE CONFIG ─────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="✦ Personality Oracle",
+    page_title="✦ Personality-Generator",
     page_icon="✦",
     layout="wide",
     initial_sidebar_state="collapsed",
