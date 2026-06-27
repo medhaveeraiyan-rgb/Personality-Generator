@@ -26,72 +26,73 @@ QUESTIONS = [
         "id": 1, "category": "Decision Style",
         "question": "🔒 You find a mysterious locked box — what do you do?",
         "options": [
-            "🔍  Search everywhere for the key — systematically",
-            "💪  Force it open. Curiosity can't wait",
-            "🌿  Leave it. Some things aren't meant to be opened",
-            "💬  Ask around — someone must know its story",
+            "🔍 Search everywhere for the key — systematically",
+            "💪 Force it open. Curiosity can't wait",
+            "🌿 Leave it. Some things aren't meant to be opened",
+            "💬 Ask around — someone must know its story"
         ]
     },
     {
         "id": 2, "category": "Energy",
         "question": "⏰ Pick the time of day you feel most alive",
         "options": [
-            "🌙  3AM — the world is quiet and mine",
-            "🌅  Sunrise — fresh start energy every day",
-            "🌇  Golden hour — everything feels cinematic",
-            "☀️  Midday chaos — I thrive in the noise",
+            "🌙 3AM — the world is quiet and mine",
+            "🌅 Sunrise — fresh start energy every day",
+            "🌇 Golden hour — everything feels cinematic",
+            "☀️ Midday chaos — I thrive in the noise"
         ]
     },
     {
         "id": 3, "category": "Conflict",
         "question": "⚡ A friend disagrees with you publicly — your move?",
         "options": [
-            "🤝  Stay calm, address it privately later",
-            "⚡  Defend my position with facts, right now",
-            "👂  Hear them out — maybe they have a point",
-            "😄  Diffuse with humor, argue never",
+            "🤝 Stay calm, address it privately later",
+            "⚡ Defend my position with facts, right now",
+            "👂 Hear them out — maybe they have a point",
+            "😄 Diffuse with humor, argue never"
         ]
-   {
-    "id": 4,
-    "category": "Creativity",
-    "question": "🧩 How do you solve a problem you've never seen before?",
-    "options": [
-        "📚 Research everything about it first",
-        "🔄 Just start — iterate until it works",
-        "💭 Sleep on it. The answer comes in dreams",
-        "🧠 Brainstorm wildly with others"
-    ]
-},
+    },
+    {
+        "id": 4,
+        "category": "Creativity",
+        "question": "🧩 How do you solve a problem you've never seen before?",
+        "options": [
+            "📚 Research everything about it first",
+            "🔄 Just start — iterate until it works",
+            "💭 Sleep on it. The answer comes in dreams",
+            "🧠 Brainstorm wildly with others"
+        ]
+    },
     {
         "id": 5, "category": "Social",
         "question": "🗓️ Your ideal Saturday has how many people in it?",
         "options": [
-            "🎵  Zero — just me, music, and silence",
-            "💫  One — my person, that's enough",
-            "🔥  A small tight crew — 3 to 5",
-            "🎉  Everyone — the more the louder",
+            "🎵 Zero — just me, music, and silence",
+            "💫 One — my person, that's enough",
+            "🔥 A small tight crew — 3 to 5",
+            "🎉 Everyone — the more the louder"
         ]
     },
     {
         "id": 6, "category": "Ambition",
         "question": "🦸 You get one superpower — which feels most you?",
         "options": [
-            "🔮  See the future — plan everything perfectly",
-            "⏸️  Pause time — never feel rushed again",
-            "🧩  Read minds — finally understand everyone",
-            "🚀  Teleport — freedom with no boundaries",
+            "🔮 See the future — plan everything perfectly",
+            "⏸️ Pause time — never feel rushed again",
+            "🧩 Read minds — finally understand everyone",
+            "🚀 Teleport — freedom with no boundaries"
         ]
     },
     {
         "id": 7, "category": "Emotion",
         "question": "🌀 Something goes wrong right before a big moment — you...",
         "options": [
-            "⚔️  Pivot instantly — adapt and conquer",
-            "🧘  Breathe, reset, keep the plan",
-            "🌀  Spiral a little, then get it together",
-            "😂  Laugh it off — chaos is my comfort zone",
+            "⚔️ Pivot instantly — adapt and conquer",
+            "🧘 Breathe, reset, keep the plan",
+            "🌀 Spiral a little, then get it together",
+            "😂 Laugh it off — chaos is my comfort zone"
         ]
-    },
+    }
 ]
 
 # ─── SESSION STATE ────────────────────────────────────────────────────────────
