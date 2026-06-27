@@ -51,17 +51,17 @@ QUESTIONS = [
             "👂  Hear them out — maybe they have a point",
             "😄  Diffuse with humor, argue never",
         ]
-    },
-    {
-        "id": 4, "category": "Creativity"
-        "question": "🧩 How do you solve a problem you've never seen before?",
-        "options": [
-            "📚  Research everything about it first",
-            "🔄  Just start — iterate until it works",
-            "💭  Sleep on it. The answer comes in dreams",
-            "🧠  Brainstorm wildly with others",
-        ]
-    },
+   {
+    "id": 4,
+    "category": "Creativity",
+    "question": "🧩 How do you solve a problem you've never seen before?",
+    "options": [
+        "📚 Research everything about it first",
+        "🔄 Just start — iterate until it works",
+        "💭 Sleep on it. The answer comes in dreams",
+        "🧠 Brainstorm wildly with others"
+    ]
+},
     {
         "id": 5, "category": "Social",
         "question": "🗓️ Your ideal Saturday has how many people in it?",
