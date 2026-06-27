@@ -7,6 +7,7 @@ import io
 import math
 import os
 import time
+import streamlit.components.v1 as components
 from dotenv import load_dotenv
 
 load_dotenv()
