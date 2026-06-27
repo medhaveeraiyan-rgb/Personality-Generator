@@ -7,7 +7,6 @@ import io
 import math
 import os
 import time
-import streamlit.components.v1 as components
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -53,7 +52,7 @@ QUESTIONS = [
         ]
     },
     {
-        "id": 4, "category": "Creativity",
+        "id": 4, "category": "Creativity"
         "question": "🧩 How do you solve a problem you've never seen before?",
         "options": [
             "📚  Research everything about it first",
