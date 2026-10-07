@@ -879,7 +879,7 @@ Return ONLY a valid JSON object (no markdown, no code blocks):
             "Content-Type": "application/json",
         },
         json={
-            "model": "llama-3.3-70b-versatile",
+            "model": "openai/gpt-oss-120b",
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.9,
             "max_tokens": 2000,
